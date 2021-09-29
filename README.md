@@ -15,7 +15,7 @@ A aplicação consiste em um footer com diversa opções, entre elas cursos, fal
 
 # Autor
 
-(Créditos ao canal "CodinLab" no YouTube de onde o tutorial foi retirado)
+(Créditos ao canal "CodingLab" no YouTube de onde o tutorial foi retirado)
 
 Pedro Henrique Silva Bonfim
 
